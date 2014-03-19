@@ -1,4 +1,0 @@
-FirstCoVenture
-==============
-
-YEAH
